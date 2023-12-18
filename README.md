@@ -100,9 +100,6 @@
 11. Save.
 
 ### Execute Credentialed Scan against our Vulnerable Windows VM
-<img width="1126" alt="image" src="https://github.com/joshmadakor1/openvas/assets/39254979/83467078-e917-4eba-9757-745fe47b4ebf">
-
-<img width="861" alt="image" src="https://github.com/joshmadakor1/openvas/assets/39254979/3b5cf494-829c-4eb0-bcfd-6d4372c97cd6">
 
 1. Within Greenbone / OpenVAS, go to Scans > Tasks.
 2. CLONE the "Scan - Azure Vulnerable VMs" Task and Edit it.
@@ -110,6 +107,10 @@
 4. Targets: Azure Vulnerable VMs - Credentialed Scan.
 5. Save.
 6. Click the Play button to launch the new Credentialed Scan and wait for it to finish.
+
+<img width="1126" alt="image" src="https://github.com/joshmadakor1/openvas/assets/39254979/83467078-e917-4eba-9757-745fe47b4ebf">
+
+<img width="861" alt="image" src="https://github.com/joshmadakor1/openvas/assets/39254979/3b5cf494-829c-4eb0-bcfd-6d4372c97cd6">
 
 ### Remediate Vulnerabilities
 <img width="799" alt="image" src="https://github.com/joshmadakor1/openvas/assets/39254979/6b3835dc-11b1-4e00-b7a5-baa8049182f7">
