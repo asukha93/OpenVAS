@@ -66,6 +66,7 @@
 7. Start the "Scan - Azure Vulnerable VMs" Task.
 8. Once the scan is finished, click the date under "Last Report" to see the results.
 9. Take note of the Tabs, especially the "Results" tab.
+<img width="508" alt="image" src="https://i.imgur.com/ZZ1L22m.png">
 
 ### Make Configurations for Credentialed Scans (Within VM)
 <img width="508" alt="image" src="https://github.com/joshmadakor1/openvas/assets/39254979/2ce2ea53-b67b-4206-8050-fecce0a11c52">
